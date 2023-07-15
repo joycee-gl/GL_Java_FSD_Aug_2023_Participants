@@ -1,0 +1,29 @@
+Integer
+- whole numbers - 100, 1000, 0
+
+- Byte
+	- 1 byte (8 bits)
+	- first bit is for sign - or +
+	- remaining 7 bits 
+	- 2^7 = 128 
+	value from -2^7 to +(2^7-1)
+	-128 to 0 to 127
+- Short
+	- 2 byte (16 bits)
+	value from -2^15 to (2^15 -1)
+- Integer
+	- 4 byte (32 bits)
+	-2^31 to (2^31-1)
+- Long
+	- 8 byte (64 bits)
+	-2^63 to (2^63-1)
+	
+Decimals
+- Float 
+	- 4 byte
+- Double
+	- 8 byte
+	
+Character
+- 2 byte
+
