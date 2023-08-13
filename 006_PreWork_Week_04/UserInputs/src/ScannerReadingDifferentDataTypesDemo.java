@@ -5,10 +5,10 @@ public class ScannerReadingDifferentDataTypesDemo {
 
 	public static void main(String[] args) {
 		
-		stringFollowedByIntScenario();
+	//	stringFollowedByIntScenario();
 		
 	//	integerFollowedByStringScenario();
-	//	integerFollowedByStringScenariov2();
+		integerFollowedByStringScenariov2();
 	}
 	
 	private static void stringFollowedByIntScenario() {
